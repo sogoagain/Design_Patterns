@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * Created by sogoesagain on 2017. 3. 16..
+ * Created by sogoagain on 2017. 3. 16..
  *
  * SemiGeneticStrategy은 제네틱 알고리즘이라고 하긴 힘들지만 제네틱 알고리즘에서 영감을 얻었다.
  * SemiGeneticStrategy은 1세대에 1개의 염색체만이 존재하고, 1개의 염색체는 3개의 유전자(패)를 가진다.

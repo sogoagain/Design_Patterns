@@ -1,7 +1,7 @@
 import java.util.Observable;
 
 /**
- * Created by sogoesagain on 2017. 3. 23..
+ * Created by sogoagain on 2017. 3. 23..
  */
 public class SportsNewsPublisher extends Observable implements NewsPublisher {
     private String latestFeed;

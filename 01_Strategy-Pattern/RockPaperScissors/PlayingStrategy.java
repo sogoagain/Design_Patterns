@@ -1,5 +1,5 @@
 /**
- * Created by sogoesagain on 2017. 3. 16..
+ * Created by sogoagain on 2017. 3. 16..
  */
 // 가위바위보 전략 인터페이스
 public interface PlayingStrategy {

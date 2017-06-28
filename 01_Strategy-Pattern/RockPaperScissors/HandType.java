@@ -1,5 +1,5 @@
 /**
- * Created by sogoesagain on 2017. 3. 16..
+ * Created by sogoagain on 2017. 3. 16..
  */
 public enum HandType {
     // 상수("연결할 문자")

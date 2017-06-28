@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * Created by sogoesagain on 2017. 4. 22..
+ * Created by sogoagain on 2017. 4. 22..
  */
 public abstract class CondimentDecorator extends Beverage {
     Beverage beverage;

@@ -1,5 +1,5 @@
 /**
- * Created by sogoesagain on 2017. 3. 23..
+ * Created by sogoagain on 2017. 3. 23..
  */
 public class TestProgram {
     public static void main(String[] args) {

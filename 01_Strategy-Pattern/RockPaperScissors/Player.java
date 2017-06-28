@@ -1,5 +1,5 @@
 /**
- * Created by sogoesagain on 2017. 3. 16..
+ * Created by sogoagain on 2017. 3. 16..
  */
 public class Player {
     private int[] resultCount = new int[3]; // 패, 무, 승

@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * Created by sogoesagain on 2017. 3. 17..
+ * Created by sogoagain on 2017. 3. 17..
  *
  * SequentialStrategy 전략은 GeneticStrategy의 성능을 입증하고자 작성했다.
  * 플레이어로부터 입력받은 일련의 패를 반복하며 내는 전략이다.

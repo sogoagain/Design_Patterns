@@ -2,7 +2,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * Created by sogoesagain on 2017. 3. 23..
+ * Created by sogoagain on 2017. 3. 23..
  */
 
 class ImprovedObservable extends Observable {

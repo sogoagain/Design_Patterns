@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * Created by sogoesagain on 2017. 3. 16..
+ * Created by sogoagain on 2017. 3. 16..
  *
  * GeneticStrategy는 제네틱(유전) 알고리즘을 이용한 전략이다.
  * 새로운 전략을 구상하다가 예전에 인터넷을 통해 한 고등학생이 블리자드의 카드게임인 하스스톤의 카드 구성을 제네틱 알고리즘을 이용해 연구한 자료를 본 기억이 떠올랐다.

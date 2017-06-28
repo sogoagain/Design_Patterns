@@ -3,7 +3,7 @@ import java.util.Observer;
 import java.util.Queue;
 
 /**
- * Created by sogoesagain on 2017. 3. 23..
+ * Created by sogoagain on 2017. 3. 23..
  *
  * 구독자는 update()를 통해 BreakingNewsPublisher로부터 받은 신문을 가져와 읽는다.
  */

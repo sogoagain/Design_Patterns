@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * Created by sogoesagain on 2017. 3. 23..
+ * Created by sogoagain on 2017. 3. 23..
  *
  * 현실 세계에서 신문을 구독하는 방식을 생각해 notifyObservers()와 updata() 메소드를 모델링 하였다.
  * BreakingNewsPublisher는 Map(HashMap)을 이용해 Observer(구독자)들과 구독자들이 받아볼 뉴스(신문)를 관리한다.

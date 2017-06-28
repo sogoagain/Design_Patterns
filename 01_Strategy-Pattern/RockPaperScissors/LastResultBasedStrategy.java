@@ -1,7 +1,7 @@
 import java.util.Random;
 
 /**
- * Created by sogoesagain on 2017. 3. 16..
+ * Created by sogoagain on 2017. 3. 16..
  */
 public class LastResultBasedStrategy implements PlayingStrategy {
     private Random randomGen = new Random();    // 난수 생성기 (이긴경우, 비긴경우에 사용)
